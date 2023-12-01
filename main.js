@@ -1,7 +1,6 @@
 
 class Course {
-    
-    constructor(title, instructor, price, description) {
+  constructor(title, instructor, price, description) {
         this.title = title;
         this.instructor = instructor
         this.price = price;
