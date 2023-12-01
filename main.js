@@ -1,3 +1,4 @@
+
 class Course {
 
     constructor(title, instructor, price, description) {
